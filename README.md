@@ -39,3 +39,6 @@ $ yarn
 $ yarn start
 
 ```
+## 🔗 Link
+
+* [Projeto on-line](https://worldtrip-mu.vercel.app/)
